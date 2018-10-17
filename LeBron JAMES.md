@@ -11,8 +11,8 @@ James est l'un des sept joueurs à avoir marqué plus de *30 000 points en carri
 
 LeBron James est sélectionné **14** fois dans les All-NBA Team dont **12** dans le cinq majeur (record) et sélectionné
 14 fois au NBA All-Star Game dont trois où il remporte le titre de MVP.
-En 2008, il remporte le titre de meilleur marqueur avec 30 points par rencontre. Avec l'équipe des États-Unis,
-LeBron James est également double champion olympique 2008 et 2012.
+En 2008, il remporte le titre de meilleur marqueur avec **30 points** par rencontre. Avec l'équipe des États-Unis,
+LeBron James est également double champion olympique **2008 et 2012**.
 
-En playoffs, il est également le meilleur marqueur de l'histoire (6 740 points), le 3e meilleur passeur (1638 passes),
-le 6e meilleur rebondeur (2 073 rebonds), le meilleur intercepteur (414) et le 5e joueur ayant disputé le plus de match (234).
+En playoffs, il est également le **meilleur marqueur de l'histoire (6 740 points), le 3e meilleur passeur (1638 passes),
+le 6e meilleur rebondeur (2 073 rebonds), le meilleur intercepteur (414) et le 5e joueur ayant disputé le plus de match (234)**.
