@@ -1,6 +1,6 @@
 # test.github.io
 
-[Test](https://www.google.fr/search?q=lebron+james&rlz=1C1CHBF_frFR804FR804&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjS7JL70I3eAhUCV8AKHfmzD08Q_AUIECgD&biw=1517&bih=730)
+[Test](https://github.com/JorisNeveu/test.github.io/new/master)
 
 
 **Welcome to GitHub Pages**
