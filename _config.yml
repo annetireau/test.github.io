@@ -1,4 +1,4 @@
     theme: jekyll-theme-cayman
     title: OpenSILEX dev documentation
 
-    include: test2.md
+    include: Test2.md
